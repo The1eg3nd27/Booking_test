@@ -1,0 +1,18 @@
+status = git status 
+
+git initialisieren = git init
+
+add file = git add file 
+
+adding = git commig -m "added"
+
+add all = git add . 
+
+new branch = git checkout -b "name of branch"
+
+Immer wenn was neues dazu kommt: git add .  git status   git commit -m "added" 
+
+merge: git merge master 
+
+push to github:  git push -u origin master 
+
